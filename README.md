@@ -1,8 +1,9 @@
-## ML miscellany
+### ML miscellany
 
 Collection of ML trivia.
 
-### Setup
+<details>
+  <summary><b>Setup</b></summary>
 
 Update lab packages with:
 
@@ -12,3 +13,5 @@ import sys
 !{sys.executable} -m pip install numpy matplotlib
 # </prelude>
 ```
+
+</details>
